@@ -1,0 +1,525 @@
+[
+  {
+    "id": "becquerel",
+    "number": "01",
+    "eyebrow": "History",
+    "title": "The 19-Year-Old Who Found Electricity in Light",
+    "short": "In 1839, a young French physicist noticed that light could create an electrical current—more than a century before modern rooftop solar became practical.",
+    "hook": "What were you doing at 19? Edmond Becquerel was discovering that light could create electricity.",
+    "factline": "1839 • An electrochemical experiment • The photovoltaic effect",
+    "article": "\n        <p>Imagine a laboratory in Paris in 1839. There are no solar farms, no rooftop panels and no lithium batteries. Electricity itself is still a young field of science. In that environment, 19-year-old Alexandre-Edmond Becquerel was working in the laboratory of his father, physicist Antoine César Becquerel.</p>\n        <p>Edmond placed metal electrodes in a conductive liquid and exposed part of the experiment to light. He observed that the electrical response changed when light reached the system. This was an early demonstration of what became known as the <strong>photovoltaic effect</strong>: light can cause a material or device to produce voltage and current.</p>\n        <p>The experiment did not immediately create a practical solar panel. The current was small, the materials were different from modern silicon cells, and scientists still needed decades of work to understand semiconductors. But the idea was revolutionary: sunlight was not only warmth and illumination—it could be converted directly into electricity.</p>\n        <p>That discovery created the opening chapter of a long technological story. Later researchers experimented with selenium. Semiconductor science advanced. In the twentieth century, practical silicon solar cells became possible. Today, the same physical principle sits behind panels on homes, businesses, telecommunications sites and spacecraft.</p>\n        <p>The most interesting lesson is not only scientific. Becquerel did not begin with a finished product. He noticed a small effect, asked why it happened and documented it. Modern solar technology grew from that curiosity.</p>\n        ",
+    "script": [
+      [
+        "0–04 sec",
+        "Open on a dark, old laboratory. Text: “Paris, 1839.”",
+        "What were you doing at 19?"
+      ],
+      [
+        "04–12 sec",
+        "A young scientist prepares two electrodes in liquid.",
+        "Edmond Becquerel was experimenting with light and electricity in his father’s laboratory."
+      ],
+      [
+        "12–22 sec",
+        "A beam of sunlight reaches one side of the experiment; a meter needle moves.",
+        "When light touched the setup, the electrical response changed."
+      ],
+      [
+        "22–32 sec",
+        "Close-up animation: photons strike the device and current begins to flow.",
+        "He had observed an early form of the photovoltaic effect—light creating electrical current."
+      ],
+      [
+        "32–46 sec",
+        "Transition from the 1839 experiment to early solar cells.",
+        "It was not yet a modern solar panel. The power was tiny, and the science needed many more discoveries."
+      ],
+      [
+        "46–61 sec",
+        "Modern rooftop panels, solar farms and a satellite appear.",
+        "But that small laboratory observation became the starting point for technology used on Earth and in space."
+      ],
+      [
+        "61–74 sec",
+        "Return to the young scientist writing notes.",
+        "The solar revolution did not begin with a giant factory. It began with curiosity."
+      ],
+      [
+        "74–85 sec",
+        "Universal Electronics closing frame.",
+        "One question can change the future. What invention do you think today’s young scientists will create next?"
+      ]
+    ],
+    "caption": "At only 19, Edmond Becquerel observed that light could produce an electrical current. His 1839 experiment did not look like today’s solar panel, but it revealed the principle that helped make modern solar power possible. Big technologies often begin with one small observation. What invention do you think the next generation will create?",
+    "hashtags": "#UniversalElectronics #SolarHistory #SolarEnergy #ScienceStory #Innovation #RenewableEnergy #Ethiopia #DidYouKnow",
+    "images": [
+      "Cinematic 1839 Paris physics laboratory, a 19-year-old French scientist beside an electrochemical cell with two metal electrodes, a narrow sunbeam entering through a tall window, subtle electrical meter movement, historically inspired scientific instruments, realistic cinematic photography, blue and warm-gold lighting, no readable text, 16:9.",
+      "Vertical social-media poster of a young nineteenth-century physicist discovering electricity from light, split composition showing an antique laboratory below and modern solar panels above, dramatic sunbeam connecting the two eras, premium documentary style, navy blue and golden sunlight, no logos, no readable text, 9:16.",
+      "Clean educational diagram showing sunlight striking an early electrochemical experiment and producing current, simple arrows, museum-infographic style, navy blue, grey, black and warm yellow, transparent or white background, no incorrect labels."
+    ],
+    "sources": [
+      [
+        "U.S. Department of Energy — Solar IQ and Becquerel’s 1839 discovery",
+        "https://www.energy.gov/articles/quiz-test-your-solar-iq"
+      ],
+      [
+        "Becquerel Prize — Edmond Becquerel biography and age",
+        "https://becquerel-prize.org/"
+      ]
+    ]
+  },
+  {
+    "id": "space",
+    "number": "02",
+    "eyebrow": "Space",
+    "title": "There Are No Electric Poles in Space",
+    "short": "Satellites need continuous electrical power for communication, navigation, observation and control. Solar arrays and batteries make that possible.",
+    "hook": "There are no electric poles in space—so how does a satellite stay powered?",
+    "factline": "Solar arrays • Rechargeable batteries • Power during eclipse",
+    "article": "\n        <p>A satellite may look silent from Earth, but inside it is constantly working. It may be collecting weather data, transmitting television signals, supporting navigation, photographing the planet or sending scientific measurements back to a control centre. Every one of those tasks needs electricity.</p>\n        <p>For many spacecraft operating near Earth or closer to the Sun, the practical answer is solar power. Solar cells mounted on panels convert sunlight into electricity. The electricity runs the spacecraft’s instruments and also charges onboard batteries.</p>\n        <p>The batteries are essential because a spacecraft does not always have direct sunlight. A satellite orbiting Earth can pass into Earth’s shadow. A spacecraft may need to turn away from the Sun during a manoeuvre. During these periods, stored energy keeps computers, heaters, communications and control systems operating.</p>\n        <p>This is similar to a well-designed solar backup system on Earth: panels generate electricity when light is available, while batteries provide energy when generation is insufficient. The engineering requirements in space are far more extreme—weight, radiation, temperature and reliability matter enormously—but the basic energy story is familiar.</p>\n        <p>Solar power is not used for every mission. Spacecraft travelling very far from the Sun may use other power sources because sunlight becomes weaker with distance. But for many satellites and spacecraft, sunlight is the most dependable fuel that does not need to be carried in a tank.</p>\n        ",
+    "script": [
+      [
+        "0–04 sec",
+        "Satellite floats above Earth. Empty space surrounds it.",
+        "There are no electric poles in space."
+      ],
+      [
+        "04–10 sec",
+        "Zoom toward the satellite’s dark solar arrays.",
+        "So how does a satellite keep its cameras, computers and communication systems running?"
+      ],
+      [
+        "10–21 sec",
+        "Panels rotate into sunlight and begin glowing subtly.",
+        "Solar cells convert sunlight into electricity while the spacecraft is exposed to the Sun."
+      ],
+      [
+        "21–33 sec",
+        "Animated energy flows from panels to onboard systems and battery.",
+        "Part of that electricity powers the mission. Another part charges rechargeable batteries."
+      ],
+      [
+        "33–45 sec",
+        "Satellite enters Earth’s shadow; solar glow disappears.",
+        "When the spacecraft moves into darkness, the batteries take over."
+      ],
+      [
+        "45–59 sec",
+        "Communication, thermal control and guidance stay active.",
+        "That stored energy can keep critical systems operating until sunlight returns."
+      ],
+      [
+        "59–72 sec",
+        "Match cut to a home or office solar-plus-battery system.",
+        "The environment is different, but the principle is familiar: generate, store and use energy when it is needed."
+      ],
+      [
+        "72–84 sec",
+        "Earth and satellite wide shot.",
+        "If solar can support technology in space, imagine what a correctly designed system can do on Earth."
+      ]
+    ],
+    "caption": "No electric poles. No fuel station. No extension cable. Many spacecraft use solar arrays to generate electricity and batteries to stay powered when they pass into shadow. It is one of the clearest examples of generation and energy storage working together.",
+    "hashtags": "#UniversalElectronics #SpaceTechnology #SolarPower #Satellite #BatteryStorage #ScienceFacts #RenewableEnergy #Ethiopia",
+    "images": [
+      "Photorealistic communications satellite above the curved Earth, large detailed solar arrays catching sunlight, half of Earth in daylight and half in shadow, cinematic space documentary, deep navy and black, realistic scale, no text, 16:9.",
+      "Vertical cinematic composition showing a satellite moving from sunlight into Earth’s shadow, glowing energy path from solar panels to an internal battery icon, premium educational visual, dark blue, black and warm sunlight, no readable text, 9:16.",
+      "Simple technical infographic: sunlight to spacecraft solar array, electricity to instruments, surplus to battery, battery powers systems in shadow, clean flat vector, Universal navy, grey, black and yellow accents."
+    ],
+    "sources": [
+      [
+        "NASA Space Place — What Powers a Spacecraft?",
+        "https://spaceplace.nasa.gov/what-powers-a-spacecraft/en/"
+      ],
+      [
+        "NASA Small Spacecraft Systems — Power Subsystems",
+        "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems/"
+      ]
+    ]
+  },
+  {
+    "id": "before-panels",
+    "number": "03",
+    "eyebrow": "Human ingenuity",
+    "title": "Solar Energy Existed Before Solar Panels",
+    "short": "Long before photovoltaic cells, people used sunlight for warmth, daylight, drying, cooking and water heating.",
+    "hook": "Solar energy is not a modern invention. Solar panels are only the modern tool.",
+    "factline": "Daylighting • Passive heating • Drying and preservation",
+    "article": "\n        <p>When people hear “solar energy,” they usually imagine a dark panel on a roof. But humans were using the Sun’s energy thousands of years before electricity.</p>\n        <p>Buildings were placed and shaped to use daylight and seasonal warmth. Openings brought sunlight into rooms. Walls and floors absorbed heat during the day and released it later. Roofs, shades and courtyards helped control when sunlight entered and when it was blocked. Today we call many of these ideas <strong>passive solar design</strong>.</p>\n        <p>Sunlight also supported everyday work. Communities dried clothes, crops, fruit, meat and other foods in the Sun. Solar warmth helped evaporate water and preserve products. People used reflective surfaces and dark containers to heat materials. None of this required a photovoltaic panel because the goal was to use light or heat directly rather than turn it into electricity.</p>\n        <p>The idea remains familiar in Ethiopia. Coffee, grains, spices and other agricultural products are often dried using solar heat and moving air. A raised drying bed is not a solar panel, but it is still a system designed to use energy from the Sun.</p>\n        <p>Modern photovoltaic systems add a powerful new step: they convert light into electricity that can run lights, computers, pumps, sound systems and many other loads. The technology is modern, but the human instinct is ancient—capture available sunlight and use it wisely.</p>\n        ",
+    "script": [
+      [
+        "0–05 sec",
+        "Modern rooftop solar panel appears.",
+        "You may think solar energy began with this."
+      ],
+      [
+        "05–13 sec",
+        "Panel fades into an ancient sunlit settlement.",
+        "But people used solar energy long before anyone created a solar cell."
+      ],
+      [
+        "13–26 sec",
+        "Sunlight enters a carefully oriented building and warms a stone floor.",
+        "Buildings used daylight, orientation, shade and heat-storing materials."
+      ],
+      [
+        "26–39 sec",
+        "Food, grain and cloth dry in the Sun.",
+        "Communities used solar heat for drying, preservation and everyday work."
+      ],
+      [
+        "39–53 sec",
+        "Ethiopian coffee cherries dry on raised beds.",
+        "In Ethiopia, the idea is still easy to recognise in coffee, grain and agricultural drying."
+      ],
+      [
+        "53–66 sec",
+        "Direct sunlight transforms into an electricity-flow animation.",
+        "The difference is that modern panels convert light into electrical power."
+      ],
+      [
+        "66–78 sec",
+        "Ancient techniques and modern solar appear side by side.",
+        "The tool changed. The energy source did not."
+      ],
+      [
+        "78–86 sec",
+        "Question on screen.",
+        "What is the oldest use of solar energy you have seen in your community?"
+      ]
+    ],
+    "caption": "Solar energy did not begin with rooftop panels. People have long used sunlight for natural lighting, warmth, drying and preservation. Modern solar technology adds one major ability: converting light directly into electricity. What traditional use of sunlight is common where you live?",
+    "hashtags": "#UniversalElectronics #SolarStory #PassiveSolar #EthiopianCoffee #RenewableEnergy #TraditionalKnowledge #DidYouKnow #Ethiopia",
+    "images": [
+      "Cinematic timeline scene blending ancient sun-oriented architecture, crops drying in sunlight and modern rooftop solar panels, realistic documentary photography, Ethiopian highland atmosphere, warm sunlight with navy shadows, no text, 16:9.",
+      "Vertical documentary image of Ethiopian coffee cherries drying on raised beds under strong morning sunlight, subtle transition in the sky to modern solar panels on a nearby building, authentic people and environment, premium natural photography, no logos or text, 9:16.",
+      "Educational split infographic: direct solar uses such as daylight, heat and drying on the left; photovoltaic electricity powering lights, computers and pumps on the right; clean flat design, navy, grey, black and warm yellow."
+    ],
+    "sources": [
+      [
+        "Smithsonian Lemelson Center — Solar on the Line",
+        "https://invention.si.edu/invention-stories/solar-line"
+      ],
+      [
+        "U.S. National Park Service — Historic buildings and natural heating, lighting and ventilation",
+        "https://www.nps.gov/orgs/1739/upload/sustainability-guidelines.pdf"
+      ]
+    ]
+  },
+  {
+    "id": "sun-power",
+    "number": "04",
+    "eyebrow": "Scale",
+    "title": "How Powerful Is the Sun?",
+    "short": "The Sun drives Earth’s climate and supports life, while delivering vastly more energy to Earth than humanity currently uses.",
+    "hook": "The Sun sends Earth more energy than humanity knows how to use—but most of it passes us by.",
+    "factline": "Climate • Photosynthesis • More than 10,000× human energy use",
+    "article": "\n        <p>Solar panels can make the Sun feel like an electricity product, but the scale of solar energy is much larger. The Sun’s energy influences Earth’s temperature, weather, water cycle, winds and ocean circulation. Plants capture a small part of it through photosynthesis, supporting food chains and agriculture.</p>\n        <p>NASA EarthData explains that Earth receives more than 10,000 times as much energy from the Sun as the entire planet uses. That does not mean all of this energy can be captured. Earth is spherical, half the planet is in darkness at any moment, clouds and the atmosphere reflect or absorb energy, and conversion systems have physical and practical limits.</p>\n        <p>Still, the comparison shows why solar energy is such an important resource. A panel does not need to capture all sunlight. It only needs to convert a useful portion of the light falling on its surface. A complete system then manages that electricity with mounting structures, cables, protection equipment, an inverter and—when required—battery storage.</p>\n        <p>The Sun is also not equally strong everywhere or every hour. Time of day, season, cloud cover, dust, shade, panel direction and temperature all affect production. This is why professional system design is based on measured energy needs and local conditions—not only the number written on a panel.</p>\n        <p>The viral fact is enormous. The practical lesson is simple: abundant energy is valuable only when the system collecting, converting and storing it is properly designed.</p>\n        ",
+    "script": [
+      [
+        "0–05 sec",
+        "A tiny Earth appears beside the Sun.",
+        "How powerful is the Sun?"
+      ],
+      [
+        "05–14 sec",
+        "Energy radiates outward; Earth intercepts a small portion.",
+        "Only a tiny fraction of the Sun’s output reaches our planet."
+      ],
+      [
+        "14–25 sec",
+        "Weather, clouds, oceans and plants animate across Earth.",
+        "Yet that energy helps drive climate, weather, the water cycle and plant growth."
+      ],
+      [
+        "25–39 sec",
+        "Large number visual: 10,000×.",
+        "NASA says Earth receives more than ten thousand times the energy humanity uses."
+      ],
+      [
+        "39–51 sec",
+        "Show clouds, night side and reflected sunlight.",
+        "We cannot capture all of it. Some is reflected, some is absorbed, and half the planet is always facing away."
+      ],
+      [
+        "51–65 sec",
+        "Solar panels convert part of the incoming light.",
+        "But capturing even a useful portion can power real homes, businesses and infrastructure."
+      ],
+      [
+        "65–78 sec",
+        "System elements appear: panel, protection, inverter, battery, loads.",
+        "The real job is not finding sunlight. It is designing the right system to collect, convert, store and use it."
+      ],
+      [
+        "78–87 sec",
+        "Closing sun-to-city visual.",
+        "The Sun is enormous. Good engineering makes a small part of its energy useful."
+      ]
+    ],
+    "caption": "Earth receives more than 10,000 times the energy humanity uses, according to NASA EarthData. We cannot capture all of it—but the scale explains why solar is such an important energy resource. The practical question is not whether sunlight exists. It is whether the system is correctly designed to use it.",
+    "hashtags": "#UniversalElectronics #SolarFacts #TheSun #RenewableEnergy #EnergyEducation #SolarSystem #Ethiopia #ScienceContent",
+    "images": [
+      "Epic realistic view of the Sun and Earth showing streams of solar energy reaching the planet, subtle overlays of weather, oceans, plants and city lights, scientific documentary style, deep navy space and warm golden sunlight, no text, 16:9.",
+      "Vertical educational poster showing the Sun at the top, Earth in the centre and solar panels, crops, clouds and water cycle below, premium realistic composite, high contrast, navy and gold, no text, 9:16.",
+      "Clean scale infographic showing incoming sunlight, reflected energy, absorbed energy and a tiny portion converted by solar panels, simple arrows and icons, no misleading percentages, Universal brand palette."
+    ],
+    "sources": [
+      [
+        "NASA EarthData — Sun–Earth Interactions",
+        "https://www.earthdata.nasa.gov/topics/sun-earth-interactions"
+      ],
+      [
+        "NASA — The Sun",
+        "https://science.nasa.gov/sun/"
+      ],
+      [
+        "NASA Earth Observatory — Earth’s Energy Budget",
+        "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/"
+      ]
+    ]
+  },
+  {
+    "id": "panel-colour",
+    "number": "05",
+    "eyebrow": "Everyday science",
+    "title": "Why Are Solar Panels Blue or Black?",
+    "short": "Panel colour comes mainly from cell material, surface texture, anti-reflection treatment and module construction—not a simple quality ranking.",
+    "hook": "Why are most solar panels dark blue or black instead of white, red or green?",
+    "factline": "Silicon • Anti-reflection coating • Light absorption",
+    "article": "\n        <p>A solar panel must allow as much useful light as possible to enter its cells. If too much light reflects away from the surface, that light cannot contribute to electricity generation.</p>\n        <p>Silicon—the most common material in photovoltaic cells—naturally reflects a meaningful amount of incoming light when untreated. Manufacturers use textured surfaces and anti-reflection coatings to reduce that reflection. The result is often a dark blue or black appearance.</p>\n        <p>Many older or multicrystalline modules look blue and have a visibly patterned surface. Many modern monocrystalline modules appear darker and more uniform. Thin-film modules can look uniformly dark or partially transparent, depending on the technology.</p>\n        <p>However, colour by itself does not prove that one panel is automatically better. Performance depends on cell design, module quality, rated output, temperature behaviour, degradation, manufacturing consistency, certification, installation and operating conditions. A black panel can look premium but still be the wrong product for a project. A blue panel can be reliable and appropriate.</p>\n        <p>The best buying question is therefore not “Which colour is strongest?” It is “Which verified panel and system design meets my energy need, installation environment and budget?” Appearance is visible. Engineering quality must be checked.</p>\n        ",
+    "script": [
+      [
+        "0–05 sec",
+        "Blue and black panels appear side by side.",
+        "Which one is better: blue or black?"
+      ],
+      [
+        "05–15 sec",
+        "White light strikes a plain silicon surface and reflects.",
+        "Solar cells need to absorb light. Reflected light cannot be converted."
+      ],
+      [
+        "15–28 sec",
+        "Surface becomes textured and coated; reflection reduces.",
+        "Manufacturers use texture and anti-reflection coatings to keep more light inside the cell."
+      ],
+      [
+        "28–40 sec",
+        "Blue crystalline pattern and dark monocrystalline panel rotate.",
+        "That is one reason many panels look dark blue or black."
+      ],
+      [
+        "40–53 sec",
+        "A large red X appears over “colour = quality.”",
+        "But colour alone does not tell you which panel is better."
+      ],
+      [
+        "53–68 sec",
+        "Checklist appears: verified rating, quality, temperature, installation, warranty.",
+        "Real performance depends on the cell design, module quality, operating conditions and correct installation."
+      ],
+      [
+        "68–80 sec",
+        "Return to both panels.",
+        "Do not buy a solar panel only because it looks modern."
+      ],
+      [
+        "80–88 sec",
+        "Question frame.",
+        "Before this video, which colour did you think was stronger?"
+      ]
+    ],
+    "caption": "Dark blue and black panels are designed to absorb light and reduce reflection, but colour alone is not a quality certificate. Panel technology, verified ratings, operating conditions and installation quality matter far more. Before today, which colour did you think performed better?",
+    "hashtags": "#UniversalElectronics #SolarPanels #SolarFacts #Monocrystalline #SolarEducation #RenewableEnergy #Ethiopia #TechExplained",
+    "images": [
+      "Premium product-comparison photograph of one blue multicrystalline solar panel and one uniform black monocrystalline solar panel standing side by side in a clean studio, realistic reflections, navy background, no brand marks or text, 16:9.",
+      "Vertical macro photograph transitioning from a blue solar-cell texture at the bottom to a dark black solar-cell texture at the top, sunlight glancing across both surfaces, premium scientific product photography, no text, 9:16.",
+      "Educational light-reflection diagram: untreated silicon reflects more light, textured anti-reflective surface absorbs more light, clean arrows, no performance percentage claims, navy, grey, black and yellow."
+    ],
+    "sources": [
+      [
+        "U.S. Department of Energy — PV Performance and Efficiency Basics",
+        "https://www.energy.gov/cmei/systems/solar-photovoltaic-performance-and-efficiency-basics"
+      ],
+      [
+        "U.S. Department of Energy — PV Cells 101, Part 2",
+        "https://www.energy.gov/cmei/systems/articles/pv-cells-101-part-2-solar-photovoltaic-cell-research-directions"
+      ]
+    ]
+  },
+  {
+    "id": "sun-disappears",
+    "number": "06",
+    "eyebrow": "Thought experiment",
+    "title": "What If the Sun Suddenly Disappeared?",
+    "short": "For about eight minutes, Earth would continue receiving the Sun’s existing light and gravitational influence. Then darkness and a radically different future would begin.",
+    "hook": "If the Sun disappeared right now, you would not notice immediately.",
+    "factline": "About 8 minutes • Darkness • Earth leaves its curved orbit",
+    "article": "\n        <p>This cannot physically happen in the magical way described, but it is a powerful thought experiment.</p>\n        <p>Sunlight takes roughly eight minutes to travel from the Sun to Earth. Changes in gravity also propagate at the speed of light. So, if the Sun could somehow vanish instantly, Earth would continue seeing sunlight and following its existing orbit for about eight minutes.</p>\n        <p>After that delay, the sky would go dark and Earth would no longer be pulled into a curved orbit around the Sun. Because the planet already has forward motion, it would continue moving approximately along a straight path tangent to its former orbit.</p>\n        <p>Solar panels would stop generating once the last sunlight passed. Batteries and other stored-energy systems could continue temporarily, depending on their capacity and the loads connected to them. But this would be much larger than an electricity problem.</p>\n        <p>Photosynthesis would stop. Surface temperatures would begin falling. Weather and the water cycle—both powered strongly by solar energy—would change. Food systems and ecosystems would collapse over time. The Sun is not simply a bright object in the sky; it is the central energy source and gravitational anchor of our planetary system.</p>\n        <p>The content lesson is dramatic. The energy lesson is practical: solar generation is intermittent because Earth rotates, clouds move and weather changes. Unlike the impossible disappearance scenario, those normal interruptions can be planned for with load management, storage and appropriate system design.</p>\n        ",
+    "script": [
+      [
+        "0–04 sec",
+        "Normal Addis Ababa morning. The Sun vanishes silently.",
+        "If the Sun disappeared right now, you would not notice immediately."
+      ],
+      [
+        "04–14 sec",
+        "Clock begins counting toward eight minutes.",
+        "The sunlight already travelling toward Earth would continue arriving for about eight minutes."
+      ],
+      [
+        "14–24 sec",
+        "Earth continues its orbit while the clock runs.",
+        "The Sun’s changed gravitational effect would also take about the same time to reach us."
+      ],
+      [
+        "24–36 sec",
+        "At eight minutes the world becomes dark.",
+        "Then the last sunlight would pass, and the sky would go dark."
+      ],
+      [
+        "36–47 sec",
+        "Earth leaves the curved orbit along a tangent line.",
+        "Without the Sun’s gravity, Earth would continue forward instead of curving around its old orbit."
+      ],
+      [
+        "47–60 sec",
+        "Solar arrays go dark; batteries continue powering selected loads.",
+        "Solar generation would stop, while stored energy would last only as long as the batteries and available reserves."
+      ],
+      [
+        "60–74 sec",
+        "Plants, water cycle and temperature visuals fade.",
+        "But electricity would be only one part of the crisis. Photosynthesis, climate and ecosystems depend on solar energy."
+      ],
+      [
+        "74–87 sec",
+        "The Sun returns; normal life resumes.",
+        "The Sun is not just our light. It is the engine of life on Earth."
+      ]
+    ],
+    "caption": "If the Sun magically disappeared, Earth would still receive its existing light and gravitational influence for about eight minutes. Then darkness would arrive, Earth would leave its curved orbit, and the crisis would become much bigger than electricity. This is a thought experiment—not a real possibility—but it shows how deeply life depends on the Sun.",
+    "hashtags": "#UniversalElectronics #WhatIf #TheSun #SpaceScience #SolarEnergy #ScienceStory #DidYouKnow #Ethiopia",
+    "images": [
+      "Cinematic hypothetical scene of Earth in space moments after the Sun has vanished, a fading golden light trail reaching the planet, deep darkness ahead, scientifically inspired but dramatic, premium documentary visual, no text, 16:9.",
+      "Vertical sequence-style poster: bright Earth at top, an eight-minute clock in the middle, dark frozen-looking Earth below, dramatic navy-black and fading gold, realistic cinematic composite, no text, 9:16.",
+      "Simple scientific diagram showing Earth’s curved orbit before the Sun disappears and a tangent path after the gravitational change arrives, clear arrows, labelled only with generic symbols, navy, grey and yellow."
+    ],
+    "sources": [
+      [
+        "NASA JPL GRACE-FO — What Is Gravity?",
+        "https://gracefo.jpl.nasa.gov/news/5/what-is-gravity/"
+      ],
+      [
+        "NASA — The Sun",
+        "https://science.nasa.gov/sun/"
+      ]
+    ]
+  },
+  {
+    "id": "off-grid",
+    "number": "07",
+    "eyebrow": "Audience challenge",
+    "title": "Could You Live Completely Without Grid Electricity?",
+    "short": "Going off-grid is possible, but it is not simply a matter of buying panels. It requires load analysis, storage, system protection and disciplined energy use.",
+    "hook": "Would you disconnect from the grid today and trust only solar power?",
+    "factline": "Know your loads • Store energy • Plan for low-generation days",
+    "article": "\n        <p>Living without grid electricity sounds simple: put panels on the roof, add a battery and stop worrying about power cuts. In reality, a dependable off-grid system begins with questions—not products.</p>\n        <p><strong>What must always remain on?</strong> Lights, Wi-Fi, security, refrigeration, computers, pumps, medical equipment and sound systems have different priorities. Separating critical loads from optional loads can dramatically change the required system size.</p>\n        <p><strong>How much energy is used each day?</strong> Power in watts tells you how demanding an appliance is at one moment. Energy in watt-hours or kilowatt-hours tells you how much it uses over time. Both matter. A small device running all day may consume more energy than a larger device used for a few minutes.</p>\n        <p><strong>What happens at night or during cloudy periods?</strong> Panels generate when sufficient light is available. Batteries store energy for later. A system may also need reserve capacity, a generator or another backup strategy depending on the required reliability.</p>\n        <p><strong>Which appliances create the biggest challenge?</strong> Electric heaters, cookers, kettles, irons, large pumps and air conditioners can create high power demand. Off-grid users often improve reliability by controlling when high-demand loads operate or by using alternative energy sources for heating.</p>\n        <p><strong>Is the installation environment suitable?</strong> Roof area, shade, panel orientation, cable distance, ventilation, dust, rain exposure and safe equipment placement all affect design.</p>\n        <p>A typical off-grid AC solar system includes photovoltaic modules, battery storage, a charge controller or suitable hybrid architecture, an inverter, protection equipment and standard AC wiring. But the correct capacity cannot be chosen from a social-media comment. It requires a load assessment and site survey.</p>\n        <p>The best viral question is personal: <strong>Which three appliances would you refuse to live without?</strong> The answers reveal how differently every household or business uses energy.</p>\n        ",
+    "script": [
+      [
+        "0–05 sec",
+        "A hand switches off the main grid breaker.",
+        "Would you disconnect from the grid today and depend completely on solar?"
+      ],
+      [
+        "05–15 sec",
+        "House remains lit; panel, inverter and battery appear.",
+        "It is possible—but it is not as simple as buying panels and a battery."
+      ],
+      [
+        "15–28 sec",
+        "Appliance icons fill the screen.",
+        "First, you must decide what is critical: lights, Wi-Fi, refrigeration, computers, pumps or something else."
+      ],
+      [
+        "28–40 sec",
+        "Power and time combine into an energy meter.",
+        "Then calculate how much power each load needs and how long it runs."
+      ],
+      [
+        "40–52 sec",
+        "Sun sets; battery indicator takes over.",
+        "At night and during low-generation periods, stored energy becomes the main source."
+      ],
+      [
+        "52–65 sec",
+        "Kettle, cooker, iron and pump create a large demand spike.",
+        "High-power appliances can change the entire system size."
+      ],
+      [
+        "65–77 sec",
+        "Shade, roof space, rain and dust appear around the building.",
+        "The site also matters: roof area, shade, weather, ventilation and safe installation."
+      ],
+      [
+        "77–90 sec",
+        "Audience-choice screen.",
+        "Your challenge: choose only three appliances you would keep. Write them in the comments."
+      ]
+    ],
+    "caption": "Could you live completely without grid electricity? A reliable off-grid system starts with load analysis, critical-appliance priorities, battery planning and preparation for low-generation days. Your challenge: choose only three electrical appliances you would keep. Comment your three.",
+    "hashtags": "#UniversalElectronics #OffGridLiving #SolarChallenge #SolarBattery #EnergyIndependence #SolarEthiopia #RenewableEnergy #AddisAbaba",
+    "images": [
+      "Photorealistic modern Ethiopian home operating off-grid, rooftop solar panels, wall-mounted inverter and battery visible in a clean utility area, evening lights on, city grid in the distance dark, premium architectural photography, realistic Ethiopian family, no text, 16:9.",
+      "Vertical interactive social poster showing a house, solar panel, inverter, battery and floating appliance choices such as light, refrigerator, Wi-Fi router, television, computer and water pump, premium realistic composite, navy and warm-gold palette, no text, 9:16.",
+      "Clean off-grid system diagram: panels to charge controller or hybrid inverter, battery, protection, AC loads and optional backup source, professional electrical infographic, no product specifications, navy, grey, black and yellow."
+    ],
+    "sources": [
+      [
+        "U.S. Department of Energy — Off-Grid AC PV Systems",
+        "https://www.energy.gov/indianenergy/tribal-energy-guide/solar"
+      ],
+      [
+        "U.S. Department of Energy — Distributed Energy Resources and Storage",
+        "https://www.energy.gov/cmei/systems/solar-integration-distributed-energy-resources-and-microgrids-basics"
+      ],
+      [
+        "U.S. Department of Energy — Homeowner’s Guide to Solar",
+        "https://www.energy.gov/cmei/systems/homeowners-guide-solar"
+      ]
+    ],
+    "extensions": [
+      [
+        "Episode 2",
+        "Can a small business operate for 24 hours using only solar?",
+        "Follow one shop, list its critical loads, record energy use and show which loads must be scheduled."
+      ],
+      [
+        "Episode 3",
+        "Which appliance is secretly consuming the most energy?",
+        "Ask the audience to guess, then compare power and operating time without claiming a universal winner."
+      ],
+      [
+        "Episode 4",
+        "Would you sacrifice an electric cooker to stay off-grid?",
+        "Create a debate about high-heat appliances and how lifestyle choices affect system size."
+      ],
+      [
+        "Episode 5",
+        "Can an apartment become off-grid?",
+        "Discuss roof ownership, shared space, cable routes, safety, battery placement and building permission."
+      ],
+      [
+        "Episode 6",
+        "What changes during Ethiopia’s rainy season?",
+        "Explain lower and more variable production, reserve planning, load control and the importance of correct sizing."
+      ],
+      [
+        "Episode 7",
+        "One family, three solar budgets",
+        "Show essential backup, extended backup and high-independence plans without publishing unverified prices."
+      ]
+    ]
+  }
+]
